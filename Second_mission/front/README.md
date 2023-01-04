@@ -1,5 +1,7 @@
 Guide d'utilisation :
-Pour lancer la partie front du site : npm run dev puis allez sur http://localhost:3001 (il faut que le server tourne sur le localhost:3000 pour ça veuillez lancer le server d'abord).
+Pour lancer la partie front du site :
+Vous devez installer la dependance next en utilisant la commande suivante : npm install react react-dom next
+ npm run dev puis allez sur http://localhost:3001 (il faut que le server tourne sur le localhost:3000 pour ça veuillez lancer le server d'abord).
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
